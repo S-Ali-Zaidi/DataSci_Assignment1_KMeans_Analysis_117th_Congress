@@ -1,0 +1,90 @@
+I 
+117TH CONGRESS 
+2D SESSION 
+H. R. 8573 
+To amend the Communications Act of 1934 to classify broadband as 
+telecommunications service. 
+IN THE HOUSE OF REPRESENTATIVES 
+JULY 28, 2022 
+Ms. MATSUI (for herself, Mr. MICHAEL F. DOYLE of Pennsylvania, Mr. PAL-
+LONE, Ms. NORTON, Mr. TONKO, Mr. GRIJALVA, Mr. CARSON, Ms. 
+BONAMICI, Ms. JACOBS of California, Ms. ESHOO, Ms. CLARKE of New 
+York, Mr. BOWMAN, Ms. JAYAPAL, Ms. BARRAGA´N, Mr. WELCH, Mrs. 
+DEMINGS, Mrs. AXNE, Mr. MCNERNEY, Ms. MCCOLLUM, Ms. CASTOR of 
+Florida, Mr. DANNY K. DAVIS of Illinois, Ms. SCHAKOWSKY, Mrs. CARO-
+LYN B. MALONEY of New York, Mr. BLUMENAUER, Mr. LAMB, Mr. LAR-
+SON of Connecticut, Mr. KEATING, Mr. VEASEY, and Mr. LEVIN of Cali-
+fornia) introduced the following bill; which was referred to the Committee 
+on Energy and Commerce 
+A BILL 
+To amend the Communications Act of 1934 to classify 
+broadband as telecommunications service. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Net Neutrality and 
+4
+Broadband Justice Act of 2022’’. 
+5
+VerDate Sep 11 2014 
+04:19 Aug 10, 2022
+Jkt 029200
+PO 00000
+Frm 00001
+Fmt 6652
+Sfmt 6201
+E:\BILLS\H8573.IH
+H8573
+pbinns on DSKJLVW7X2PROD with $$_JOB
+2 
+•HR 8573 IH
+SEC. 
+2. 
+CLASSIFICATION 
+OF 
+BROADBAND 
+AS 
+TELE-
+1
+COMMUNICATIONS SERVICE. 
+2
+Section 3(53) of the Communications Act of 1934 
+3
+(47 U.S.C. 153(53)) is amended— 
+4
+(1) by striking ‘‘means the offering’’ and insert-
+5
+ing the following: ‘‘— 
+6
+‘‘(A) means the offering’’; and 
+7
+(2) by striking the period at the end and insert-
+8
+ing the following: ‘‘; and 
+9
+‘‘(B) includes the offering of broadband 
+10
+internet access service, as defined in section 
+11
+801, for a fee directly to the public, or to such 
+12
+classes of users as to be effectively available di-
+13
+rectly to the public, regardless of the facilities 
+14
+used.’’. 
+15
+Æ 
+VerDate Sep 11 2014 
+04:19 Aug 10, 2022
+Jkt 029200
+PO 00000
+Frm 00002
+Fmt 6652
+Sfmt 6301
+E:\BILLS\H8573.IH
+H8573
+pbinns on DSKJLVW7X2PROD with $$_JOB
