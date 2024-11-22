@@ -2,9 +2,9 @@
 ## The 117th Congress: Assessing Congressional Committee Referrals Using NLP Embeddings and Unsupervised Clustering of Legislative Texts
 
 > [!NOTE] 
->**Embedding Cluster Analysis: 11,154 House bills introduced in the 117th Congress, labeled by theme**
-> 
->![UMAP Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
+>**K-Means Clustering UMAP:** High-Dimensional NLP Embeddings of 11,154 House bills introduced in the 117th Congress, labeled by semantic theme per Cluster
+
+![UMAP Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
 
 ### Motivation
 
