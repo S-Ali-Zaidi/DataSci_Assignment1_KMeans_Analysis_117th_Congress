@@ -4,7 +4,7 @@
 > [!NOTE] 
 >**Embedding Cluster Analysis: 11,154 House bills introduced in the 117th Congress, labeled by theme**
 > 
->![UMAP Projection of Bill Embeddings](https://github.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/blob/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png?raw=true)
+>![UMAP Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
 
 ### Motivation
 
@@ -171,5 +171,5 @@ While the clustering approach revealed interesting and coherent thematic groupin
 > [!NOTE]
 > **UMAP of Bills labeled by Cluster Theme**
 >
-> ![UMAP Projection of Bill Embeddings](https://github.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/blob/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png?raw=true)
+> ![UMAP: Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
 
