@@ -1,5 +1,5 @@
 #### Data Science Fundamentals: Assignment 1
-# The 117th Congress: Assessing Congressional Committee Referrals Using NLP Embeddings and Unsupervised Clustering of Legislative Texts
+## The 117th Congress: Assessing Congressional Committee Referrals Using NLP Embeddings and Unsupervised Clustering of Legislative Texts
 
 > [!NOTE] 
 >**Embedding Cluster Analysis: 11,154 House bills introduced in the 117th Congress, labeled by theme**
