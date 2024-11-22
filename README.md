@@ -99,10 +99,10 @@ The clustering yielded some insightful, albeit unexpected, results:
 
 > [!NOTE]
 > **Heatmap: Committee Predictions are Noted by Cells Outlined in Blue**
-> 
-> ![K-Means Heatmap: Bills Per Committee per Cluster](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/KMeans_Heatmap_Seed7_N1000_Inertia4667.89.png)
->
-> Below is a table identifying the major themes of each cluster. To see examples of specific bills that fell into each cluster, and helped shape these themes, [go here.](https://github.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/blob/main/Data/Main_Data/Results/Clusters.md)
+
+![K-Means Heatmap: Bills Per Committee per Cluster](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/KMeans_Heatmap_Seed7_N1000_Inertia4667.89.png)
+
+Below is a table identifying the major themes of each cluster. To see examples of specific bills that fell into each cluster, and helped shape these themes, [go here.](https://github.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/blob/main/Data/Main_Data/Results/Clusters.md)
 
 | **Cluster Number** | **Identified Theme**                                                                      | **Committees with Strongest Bill Showings**                       | **Committees with Embeddings in Cluster**                                   |
 | ------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -130,8 +130,8 @@ The clustering yielded some insightful, albeit unexpected, results:
 
 > [!NOTE]
 > **How Each Cluster Relates to Others Clusters**
-> 
-> ![Cluster Distance Heatmap](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/Cluster_Distance_Heatmap_Seed7_N1000_Inertia4667.89.png)
+
+![Cluster Distance Heatmap](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/Cluster_Distance_Heatmap_Seed7_N1000_Inertia4667.89.png)
 
 ## Difficulties
 
@@ -165,11 +165,11 @@ While the clustering approach revealed interesting and coherent thematic groupin
 
 > [!NOTE]
 > **UMAP of Bills labeled by Committee Assignments**
->
-> ![UMAP: Committee Assignments](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Committee_Seed7_N1000_Inertia4667.89.png)
+
+![UMAP: Committee Assignments](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Committee_Seed7_N1000_Inertia4667.89.png)
 
 > [!NOTE]
 > **UMAP of Bills labeled by Cluster Theme**
->
-> ![UMAP: Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
+
+![UMAP: Projection of Bill Embeddings](https://raw.githubusercontent.com/S-Ali-Zaidi/DataSci_Assignment1_KMeans_Analysis_117th_Congress/refs/heads/main/Data/Main_Data/Results/UMAP_Projection_Cluster_Labeled_Seed7_N1000_Inertia4667.89.png)
 
